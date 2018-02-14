@@ -1,3 +1,7 @@
+//Wade Tobin
+//Lab 8
+//wmtb75
+//Section E
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
