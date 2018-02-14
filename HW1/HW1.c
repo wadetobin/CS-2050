@@ -1,6 +1,7 @@
 //Wade Tobin
-//Lab Section E
+//HW 1
 //wmtb75
+//Section E
 #include <stdio.h>
 #include <stdlib.h>
 
