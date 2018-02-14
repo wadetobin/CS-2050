@@ -1,3 +1,7 @@
+//Wade Tobin
+//Lab 5
+//wmtb75
+//Section E
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
