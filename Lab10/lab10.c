@@ -1,7 +1,7 @@
 //Wade Tobin
 //Section E
 //Lab 10
-//
+//wmtb75
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
